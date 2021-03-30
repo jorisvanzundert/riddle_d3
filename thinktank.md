@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Think Tank"
+title: "ThinkTank"
 permalink: /thinktank/
 ---
 
