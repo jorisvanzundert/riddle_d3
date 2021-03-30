@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "ThinkTank"
 permalink: /thinktank/
-theme: jekyll-theme-cayman
 ---
 
 v1
