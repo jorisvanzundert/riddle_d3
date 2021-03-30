@@ -4,9 +4,11 @@ title: "books_read"
 permalink: /books_read/
 ---
 
+<style>
 .chart {
   display: inline-block;
 }
+</style>
 
 <script src="https://d3js.org/d3.v6.min.js" defer></script>  
 <script src="https://d3js.org/d3-scale.v3.min.js" defer></script>  
