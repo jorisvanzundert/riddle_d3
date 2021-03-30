@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ThinkTank"
+title: "Think Tank"
 permalink: /thinktank/
 ---
 
