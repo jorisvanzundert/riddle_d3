@@ -12,7 +12,7 @@ Jelle Krol, Tresoar (provincial library of Friesland)
 [Jelle Zuidema](http://staff.science.uva.nl/~jzuidema/), University of Amsterdam</p>
 
 
-*David Hoover *is Professor of English at New York University. He is a leading digital humanities scholar working in stylistics and authorship attribution.  
+*David Hoover* is Professor of English at New York University. He is a leading digital humanities scholar working in stylistics and authorship attribution.  
 
 *Patrick Juola* is Professor of Computer Science at Duquesne University (Pittsburgh). He has created the [JGAAP]("http://evllabs.com/jgaap/w/index.php/Main_Page") software package, a Java based open source Authorship Attribution suite.  
 
