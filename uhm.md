@@ -4,7 +4,7 @@ title: "Uhm"
 permalink: /uhm/
 ---
 
-v1
+v2
 
 <script src="https://d3js.org/d3.v6.min.js" defer></script>  
 <script src="https://d3js.org/d3-scale.v3.min.js" defer></script>  
