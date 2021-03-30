@@ -4,14 +4,14 @@ title: "Think Tank"
 permalink: /thinktank/
 ---
 
-[David Hoover](https://files.nyu.edu/dh3/public/), New York University
-[Patrick Juola](http://www.mathcs.duq.edu/~juola/), Duquesne University, Pittsburgh
-Jelle Krol, Tresoar (provincial library of Friesland)
-[Max Louwerse](http://www.memphis.edu/psychology/people/faculty/louwerse.php), University Of Memphis<br />
-[Martin Reynaert](http://www.tilburguniversity.edu/webwijs/show/?uid=reynaert), Tilburg University<br />
-[Thomas Vaessens](http://www.thomasvaessens.nl/), University of Amsterdam<br />
-[Arie Verhagen](http://www.arieverhagen.nl/), Leiden University<br />
-[Jelle Zuidema](http://staff.science.uva.nl/~jzuidema/), University of Amsterdam</p>
+[David Hoover](https://files.nyu.edu/dh3/public/), New York University  
+[Patrick Juola](http://www.mathcs.duq.edu/~juola/), Duquesne University, Pittsburgh  
+Jelle Krol, Tresoar (provincial library of Friesland)  
+[Max Louwerse](http://www.memphis.edu/psychology/people/faculty/louwerse.php), University Of Memphis  
+[Martin Reynaert](http://www.tilburguniversity.edu/webwijs/show/?uid=reynaert), Tilburg University  
+[Thomas Vaessens](http://www.thomasvaessens.nl/), University of Amsterdam  
+[Arie Verhagen](http://www.arieverhagen.nl/), Leiden University  
+[Jelle Zuidema](http://staff.science.uva.nl/~jzuidema/), University of Amsterdam  
 
 
 **David Hoover** is Professor of English at New York University. He is a leading digital humanities scholar working in stylistics and authorship attribution.
