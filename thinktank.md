@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Think Tank"
 permalink: /thinktank/
+---
 
 [David Hoover](https://files.nyu.edu/dh3/public/), New York University  
 [Patrick Juola](http://www.mathcs.duq.edu/~juola/), Duquesne University, Pittsburgh  
