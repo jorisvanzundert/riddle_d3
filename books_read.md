@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "books_read"
+title: "Books Read"
 permalink: /books_read/
 ---
 
