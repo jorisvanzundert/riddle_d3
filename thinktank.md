@@ -4,8 +4,6 @@ title: "Think Tank"
 permalink: /thinktank/
 ---
 
-v1
-
 [David Hoover](https://files.nyu.edu/dh3/public/), New York University  
 [Patrick Juola](http://www.mathcs.duq.edu/~juola/), Duquesne University, Pittsburgh  
 Jelle Krol, Tresoar (provincial library of Friesland)  
